@@ -1,2 +1,13 @@
-
-
+.nagative-m{
+    margin-top: -15%;
+}
+.price-menu{
+    padding: 0;
+}
+.price-menu li{
+    list-style: none;
+}
+.price-menu li a{
+    text-decoration: none;
+    color: black;
+}
