@@ -44,5 +44,14 @@
    height:35px;
    
 }
+.accordion-button{
+    color: black;
+    
+}
+.accordion-button:not(.collapsed){
+    background: none;
+    color: black;
+    border: none;
+}
 
 
